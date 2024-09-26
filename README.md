@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I was in the world's first basketball Opera**
 
-<p align="right">
+<p align="center">
   <img src="https://www.123code.org/images/fields/GIF/computer-art-animation.gif" alt="">
 </p>    
 <h3 align="left">Connect with me:</h3>
